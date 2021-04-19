@@ -1,0 +1,52 @@
+body {
+font-family:  'Montserrat', sans-serif;
+font-size:16px;
+line-height:1.5;
+background: #eef; 
+text-align:justify;
+margin:5px;
+}
+h1,h2,h3 {
+font-family: "Merriweather", serif;
+font-size:24px;
+color:red;
+text-align:center;
+text-transform:uppercase;
+}
+
+		table, th, td {
+		border: 1px solid black;
+ 
+		}
+		aside{
+		width:30%;
+		padding-left: 15px;
+		margin- left: 15px;
+		float:right;
+		font-style: italic;
+		background-color:lightgray;
+		}
+		
+		footer{
+		text-align:center;
+		padding:3px;
+		background-color:Darksalmon;
+		color:white;
+		}
+img{
+	width:25%;
+	float:right;
+	clear:both:
+}	
+		article, aside, footer, header, menu, nav, section {
+		display: block;
+		}
+	article,section{
+		margin:20px;
+	}		
+	images, nav, texts,aside{
+		padding:2;
+	}
+	nav{
+		float:left;
+	}
